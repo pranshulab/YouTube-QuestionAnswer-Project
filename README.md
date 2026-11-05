@@ -1,7 +1,5 @@
 # YouTube-QuestionAnswer-Project
 
-# My Groq AI Project
-
 ## Description
 A Python project powered by Groq Cloud API and LangChain.
 
