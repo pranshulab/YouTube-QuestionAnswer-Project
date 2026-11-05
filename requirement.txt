@@ -1,0 +1,9 @@
+
+youtube-transcript-api
+langchain-community
+faiss-cpu
+python-dotenv
+requests
+pydantic
+fastapi
+uvicorn
